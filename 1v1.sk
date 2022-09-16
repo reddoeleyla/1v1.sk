@@ -1,0 +1,10 @@
+command /1v1 [<offline player>]:
+    permission: sk.1v1
+    permission message: &b&LSKRIPT &7Comando Sconosciuto
+    trigger:
+        give player diamond helmet
+        give player diamond chestplate
+        give player diamond leggings
+        give player diamond boots
+        give player diamond sword
+        give player bow
